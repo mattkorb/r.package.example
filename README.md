@@ -1,6 +1,6 @@
 # r.package.example
 
-Hello world
+Hello world 2
 
 
 An example package for the workshop.
