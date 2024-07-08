@@ -10,6 +10,4 @@ test_that("fix me!!!", {
   expect_equal(1, 1)
 })
 
-test_that("Win + L vergessen!!", {
-  expect_equal(2, 1)
-})
+
